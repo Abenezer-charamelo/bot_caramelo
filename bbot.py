@@ -13,7 +13,7 @@ import bridge
 offset=upp.rd_updd("update.txt")
 timeout="99999999"
 message=""
-token = "https://api.telegram.org/bot910587910:AAH7vmMms6iG76kEpHUUDGASefUFoRGOXmQ/getupdates?"
+token = "https://api.telegram.org/bot*******************************************/getupdates?"
 r = None
 cus_array=None
         # this function edits the url and request update page and store it in r
